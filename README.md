@@ -6,11 +6,11 @@ This project focuses on building a **Predictive Machine Learning Model** to esti
 ---
 
 ## 🚀 Key Features
-* [cite_start]**Data Cleaning:** * Handled missing values (`NaN`) and performed string manipulation[cite: 1].
-    * [cite_start]Extracted numerical values from complex string formats (e.g., converting **"(min) 28"** to float)[cite: 1].
-* [cite_start]**Feature Engineering:** * Engineered a **Spatial Feature (Distance)** by calculating the distance between the restaurant and the delivery location using GPS coordinates[cite: 1].
-* [cite_start]**Modeling:** * Utilized **Random Forest Regressor** to train on 80% of the data and predict delivery times[cite: 1].
-* [cite_start]**Evaluation:** * Evaluated model performance using the **R-squared ($R^2$) score** to understand predictive accuracy[cite: 1].
+**Data Cleaning:** * Handled missing values (`NaN`) and performed string manipulation.
+    * Extracted numerical values from complex string formats (e.g., converting **"(min) 28"** to float).
+* **Feature Engineering:** * Engineered a **Spatial Feature (Distance)** by calculating the distance between the restaurant and the delivery location using GPS coordinates.
+* **Modeling:** * Utilized **Random Forest Regressor** to train on 80% of the data and predict delivery times.
+* **Evaluation:** * Evaluated model performance using the **R-squared ($R^2$) score** to understand predictive accuracy.
 
 ---
 
@@ -23,9 +23,9 @@ This project focuses on building a **Predictive Machine Learning Model** to esti
 
 ## 📊 Dataset
 The project uses the **Food Delivery Dataset** from Kaggle, which includes:
-* [cite_start]**Delivery Person Details:** Age and Ratings[cite: 1].
-* [cite_start]**Location Data:** Latitude and Longitude of both the Restaurant and the Delivery location[cite: 1].
-* [cite_start]**Target Variable:** Time taken for delivery in minutes[cite: 1].
+* **Delivery Person Details:** Age and Ratings.
+* **Location Data:** Latitude and Longitude of both the Restaurant and the Delivery location.
+* **Target Variable:** Time taken for delivery in minutes.
 
 ---
 
@@ -38,6 +38,6 @@ The project uses the **Food Delivery Dataset** from Kaggle, which includes:
 
 ## 👨‍💻 Author
 **Phyo Wai Yan Lin Zaw**
-* [cite_start]**Education:** Software Engineering Student at Mae Fah Luang University (**GPAX 4.0**) [cite: 1]
-* [cite_start]**Achievement:** **1st Place Winner** - LINE x MFU Hackathon 2025 [cite: 1]
-* **Contact:** [GitHub](https://github.com/phyowaiyanlinzaw) | [cite_start][Email](mailto:phyowaiyanlinzaw.3005@gmail.com) [cite: 1]
+* **Education:** Software Engineering Student at Mae Fah Luang University (**GPAX 4.0**) 
+* **Achievement:** **1st Place Winner** - LINE x MFU Hackathon 2025 
+* **Contact:** [GitHub](https://github.com/phyowaiyanlinzaw) | [Email](mailto:phyowaiyanlinzaw.3005@gmail.com) 
